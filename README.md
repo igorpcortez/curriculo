@@ -20,3 +20,6 @@ Agora você altera e/ou cria os arquivos conforme a solicitação do cliente e d
 
 ## Para enviar para o git
 `git push origin nome-da-branch` (main, develop etc)
+
+## Criar um novo branch
+`git checkout -b nome-da-branch`
