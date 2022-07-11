@@ -1,6 +1,9 @@
 # curriculo
 Usado na aula 2 de git
 
+## Para voltar para o branch principal
+`git checkout main`
+
 ## Para Adicionar os arquivos
 `git add .` ou `git add arquivo.html`
 
